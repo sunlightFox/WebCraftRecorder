@@ -1,0 +1,8 @@
+click,#kw
+input,#kw,1
+input,#kw,11
+input,#kw,111
+click,#su
+click,div#page > div > a > span
+click,div#page > div > a:nth-of-type(3) > span
+click,div#page > div > a:nth-of-type(4) > span
